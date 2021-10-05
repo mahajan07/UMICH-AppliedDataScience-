@@ -10,3 +10,6 @@ def add_number(x,y):
     return x + y
 print(add_number(2,4))
 --------------------------
+- When value is NULL
+-I will add the ipynb file for this study
+
